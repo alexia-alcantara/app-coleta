@@ -57,7 +57,7 @@
 
 #modal form input {
     flex: 1;
-    background-color: #f0f0f5;
+    background-color: var(--second-color);
     border-radius: 8px 0 0 8px;
     border: 0;
     padding: 16px 24px;
