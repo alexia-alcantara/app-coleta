@@ -1,0 +1,30 @@
+{
+  "name": "nlw",
+  "version": "1.0.0",
+  "description": "Aplicação de coleta de resíduos",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "nodemon src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexia-alcantara/app-coleta.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexia-alcantara/app-coleta/issues"
+  },
+  "homepage": "https://github.com/alexia-alcantara/app-coleta#readme",
+  "dependencies": {
+    "3": "^2.1.0",
+    "express": "^4.17.1",
+    "nunjucks": "^3.2.1",
+    "sqlite": "^4.0.10",
+    "sqlite3": "^4.2.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
